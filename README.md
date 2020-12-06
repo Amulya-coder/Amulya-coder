@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Amulya-coder/Amulya-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Amulya's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/amulyacoder)
+    
 
 Here are some ideas to get you started:
 
