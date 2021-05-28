@@ -16,8 +16,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; I'm a Full-Stack Web Developer and a Computer Science Enthusiast </br>
-- 💻  &nbsp; I'm passionate about Programming , Open source development , and new technologies.
-- 🌱 &nbsp; Currently working on some of my cool-sided projects based on web-development.
+- 💻  &nbsp; I'm passionate about Programming, Open source development, Data Science and new trending technologies.
+- 🌱 &nbsp; Currently dive in learning and working on some of my cool-sided projects based on web-development and Data science.
 - ✍️ &nbsp; I'm looking for contribution in open source projects, I love to Code and enjoy learning new things.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
