@@ -18,7 +18,7 @@
 
 - 🎓 &nbsp; I'm a Full-Stack Web Developer, Machine Learning & a Data Science Enthusiast. </br>
 - 💻  &nbsp; I'm passionate about Programming, Open source development and new trending technologies.
-- 🌱 &nbsp; Currently dive in learning and working on some of my cool-sided projects based on web-development and Data science.
+- 🌱 &nbsp; Currently deep dive in learning and working on some of my cool-sided projects based on web-development and Data science.
 - ✍️ &nbsp; I'm looking for contribution in open source projects, I love to Code and enjoy learning new things.
 
 
@@ -46,7 +46,7 @@
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amulya-coder&show_icons=true&locale=en&layout=compact" alt="amulya-coder" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amulya-coder&show_icons=true&locale=en" alt="amulya-coder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amulya-coder&show_icons=true&locale=en" alt="amulya-coder" /></p>
 
 
 
