@@ -43,28 +43,11 @@
 ### 👩‍💻 IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-<br />
-<!-- - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-</br> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amulya-coder&show_icons=true&locale=en&layout=compact" alt="amulya-coder" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amulya-coder&show_icons=true&locale=en&layout=compact" alt="amulya-coder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amulya-coder&show_icons=true&locale=en" alt="amulya-coder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amulya-coder&show_icons=true&locale=en" alt="amulya-coder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amulya-coder&" alt="amulya-coder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amulya-coder&" alt="amulya-coder" /></p>
 
 
 
