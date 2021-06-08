@@ -16,7 +16,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🎓 &nbsp; I'm a Full-Stack Web Developer, Data Science & Machine Learning Enthusiast. </br>
+- 🎓 &nbsp; I'm a Full-Stack Web Developer, Data Science & a Machine Learning Enthusiast. </br>
 - 💻  &nbsp; I'm passionate about Programming, Open source development and new trending technologies.
 - 🌱 &nbsp; Currently deep dive in learning and working on some of my cool-sided projects based on web-development and Data science.
 - ✍️ &nbsp; I'm contributing in open source projects, I love to Code and enjoy learning new things.
