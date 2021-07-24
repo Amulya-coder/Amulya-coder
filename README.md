@@ -16,11 +16,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🎓 &nbsp; I'm a Frontend Web Developer and a open source contributor. </br>
-- 💻  &nbsp; I'm passionate about Programming, Open source development and new trending technologies.
-- 🌱 &nbsp; Currently deep dive in Programming and working on some of my cool-sided projects based on web-development.
+- 🎓 &nbsp; I'm a Open Source Enthusiast, Full stack Web Developer and a Techie. </br>
+- 💻  &nbsp; I'm a aspiring boy who always curious to learn more about Programming, Open source development and new trending technologies.
+- 🌱 &nbsp; Currently working on [Wildfly Elytron](https://github.com/wildfly-security/wildfly-elytron).
 - ✍️ &nbsp; I love to Code and enjoy learning new things.
-
+- 😄 Pronouns: He/Him/His. 
 
 <h2> 🛠 &nbsp;Languages & Tools:</h2>
 
