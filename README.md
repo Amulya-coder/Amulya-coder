@@ -17,7 +17,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🎓 &nbsp; I'm a Open Source Enthusiast, Full Stack Web Developer and a Techie. </br>
-- 💻  &nbsp; An aspiring developer who always curious to learn about Programming, Open source development and new trending technologies.
+- 💻  &nbsp; An aspiring developer who always curious to learn about Programming,Open source development and new trending technologies.
 - 🌱 &nbsp; Contributing in Open Source Project [Wildfly Elytron](https://github.com/wildfly-security/wildfly-elytron).
 - ✍️ &nbsp; I love to Code and enjoy learning new things.
 - 😄 Pronouns: He/Him/His. 
