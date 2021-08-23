@@ -29,7 +29,7 @@
 - Contributor in Open Source Projects/Organisations: [Anterix](https://github.com/NikhilKD/Anterix), [AnitaB.org Open Source](https://github.com/anitab-org), 
   [awesome portfolio websites](https://github.com/smaranjitghose/awesome-portfolio-websites), [Styles](https://github.com/sumana2001/styles), [DS Algos](https://github.com/rohan8594/DS-Algos).
 - Doing Competitive Programming on [Codechef](https://www.codechef.com/users/amulya_127)
-- Participant at Hactoberfest 2020 Digital Ocean, 30 Days of Open Source Challenge Scholarship Track 2020.  
+- Participant at Hactoberfest 2020 Digital Ocean, 30 Days of Open Source Challenge Scholarship Track 2020, Virtual Program participant at Microsoft 2020.  
 - Former Web Development intern at Verzeo. 
 
 <h2> 🛠 &nbsp;Languages & Tools:</h2>
