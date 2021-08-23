@@ -14,13 +14,22 @@
 <br />
 <br/>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+### 👨🏻‍💻 About Me
 
-- 🎓 &nbsp; I'm a Open Source Enthusiast, Full Stack Web Developer and a Techie. </br>
-- 💻  &nbsp; An aspiring developer who always curious to learn about Programming,Open source development and new trending technologies.
-- 🌱 &nbsp; Contributing in Open Source Project [Wildfly Elytron](https://github.com/wildfly-security/wildfly-elytron).
-- ✍️ &nbsp; I love to Code and enjoy learning new things.
-- 😄 Pronouns: He/Him/His. 
+- 🎓  I'm an Open Source Enthusiast, Full Stack Web Developer and a Techie.
+- 💻  I'm an experienced developer skilled in C++, HTML, CSS, Full Stack Development, Javascript and its frameworks.
+- 🌱  Currently learning about Web application deployment on [AWS](https://aws.amazon.com/console/). 
+- ✍️  I love to Code and enjoy learning new things.
+- 😄  Pronouns: He/Him/His. 
+
+### 🌱 What do I do and What have I done? 
+
+- Mentor at vGHC'21 and Ex-Mentor at AnitaB Organisation for Open Source Hack 2021.
+- Member and Co-Head Web Development at Software Development Cell ANTERiX Club Vit Bhopal, Member at Codecademy VIT Bhopal Chapter.
+- Contributor in Open Source Projects/Organisations: [Anterix](https://github.com/NikhilKD/Anterix), [AnitaB.org Open Source](https://github.com/anitab-org), 
+  [awesome portfolio websites](https://github.com/smaranjitghose/awesome-portfolio-websites), [Styles](https://github.com/sumana2001/styles), [DS Algos](https://github.com/rohan8594/DS-Algos).
+- Participant at Hactoberfest 2020 Digital Ocean, 30 Days of Open Source Challenge Scholarship Track 2020.  
+- Former Web Development intern at Verzeo. 
 
 <h2> 🛠 &nbsp;Languages & Tools:</h2>
 
