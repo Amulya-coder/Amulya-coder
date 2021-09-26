@@ -25,7 +25,7 @@
 - 🎓  I'm an Open Source Enthusiast, Full Stack Web Developer and a Techie.
 - 💻  I'm an experienced developer skilled in C++, HTML, CSS, Full Stack Development, Javascript and its frameworks.
 - 🌱  Currently learning about Web application deployment on [AWS](https://aws.amazon.com/console/). 
-- ✍️  I love to Code and enjoy learning new things.
+- ✍️  I love to Code, Analyze and Build process for solving any real life problem, also enjoy learning new domain technologies.
 - 😄  Pronouns: He/Him/His. 
 
 ### 🌱 What do I do and What have I done? 
