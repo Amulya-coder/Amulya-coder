@@ -2,6 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Amulya Dixit</h1>
 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=Amulya-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
 <a href="https://dev.to/amulyacoder">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Amulya's DEV Profile" align="left" height="30" width="30" />
 </a>
