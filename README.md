@@ -26,7 +26,6 @@
 - 💻  I'm an experienced developer skilled in C++, HTML, CSS, Full Stack Development, Javascript and its frameworks.
 - 🌱  Currently developing portfolio projects.
 - ✍️  I love to Code, Analyze and Build solutions for solving real life problems, also enjoy learning new domain technologies.
-- 😄  Pronouns: He/Him/His. 
 
 ### 🌱 What have I done? 
 
