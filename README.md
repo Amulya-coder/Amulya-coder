@@ -28,11 +28,11 @@
 - ✍️  I love to Code, Analyze and Build solutions for solving real life problems, also enjoy learning new domain technologies.
 - 😄  Pronouns: He/Him/His. 
 
-### 🌱 What do I do and What have I done? 
+### 🌱 What have I done? 
 
 - Former Mentor at [Wildfly Elytron](https://github.com/wildfly-security/wildfly-elytron) for vGHC'21 and Mentor at AnitaB Organisation for Open Source Hack 2021.
 - Member and Co-Head Web Development at Software Development Cell ANTERiX Club Vit Bhopal, Member at Codecademy VIT Bhopal Chapter.
-- Contributor in Open Source Projects/Organisations: [Anterix](https://github.com/NikhilKD/Anterix), [AnitaB.org Open Source](https://github.com/anitab-org), 
+- Contributor in Open Source Projects/Organisations: [Anterix](https://github.com/NikhilKD/Anterix), [AnitaB.org](https://github.com/anitab-org), 
   [awesome portfolio websites](https://github.com/smaranjitghose/awesome-portfolio-websites), [Styles](https://github.com/sumana2001/styles), [DS Algos](https://github.com/rohan8594/DS-Algos).
 - Competitive Programming on [Codechef](https://www.codechef.com/users/amulya_127)
 - Participant at Hactoberfest 2020 Digital Ocean, 30 Days of Open Source Challenge Scholarship Track 2020, Virtual Program participant at Microsoft 2020.  
