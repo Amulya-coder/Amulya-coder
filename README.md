@@ -23,8 +23,8 @@
 ### 👨🏻‍💻 About Me
 
 - 🎓  I'm an Open Source Enthusiast, Full Stack Web Developer and a Techie.
-- 💻  I'm an experienced developer skilled in C++, HTML, CSS, Full Stack Development, Javascript and its frameworks.
-- 🌱  Currently developing portfolio projects.
+- 💻  I'm an experienced developer skilled in C++, HTML, CSS and Javascript.
+- 🌱  Currently learning React and developing projects.
 - ✍️  I love to Code, Analyze and Build solutions for solving real life problems, also enjoy learning new domain technologies.
 
 ### 🌱 What have I done? 
