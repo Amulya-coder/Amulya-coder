@@ -6,17 +6,17 @@
     <img src="https://komarev.com/ghpvc/?username=Amulya-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
-<a href="https://dev.to/amulyacoder">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Amulya's DEV Profile" align="left" height="30" width="30" />
-</a>
-
 <a href="https://www.linkedin.com/in/amulyadixit/">
   <img align="left" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 
  <a href="mailto:amulyadixit07@gmail.com">
   <img align="left" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>   
+</a>
+
+<a href="https://dev.to/amulyacoder">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Amulya's DEV Profile" align="left" height="30" width="30" />
+</a>
 <br />
 <br/>
 
