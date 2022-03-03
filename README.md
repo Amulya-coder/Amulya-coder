@@ -24,7 +24,7 @@
 
 - 🎓  I'm an Open Source Enthusiast, Full Stack Web Developer and a Techie.
 - 💻  I'm an experienced developer skilled in C++, HTML, CSS and Javascript.
-- 🌱  Currently learning React and developing projects.
+- 🌱  Currently learning React App development and developing projects.
 - ✍️  I love to Code, Analyze and Build solutions for solving real life problems, enjoy learning new domain technologies.
 
 ### 🌱 What have I done? 
