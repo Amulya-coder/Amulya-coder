@@ -33,7 +33,6 @@
 - Co-Head Web Development at Software Development Cell ANTERiX Club Vit Bhopal, Member at Codecademy VIT Bhopal Chapter.
 - Contributor in Open Source Projects/Organisations: [AnitaB.org](https://github.com/anitab-org), 
   [awesome portfolio websites](https://github.com/smaranjitghose/awesome-portfolio-websites), [Styles](https://github.com/sumana2001/styles), [DS Algos](https://github.com/rohan8594/DS-Algos), [Anterix](https://github.com/NikhilKD/Anterix), and many more.
-- Competitive Programming on [Codechef](https://www.codechef.com/users/amulya_127)
 - Participant at Hactoberfest 2020 Digital Ocean, 30 Days of Open Source Challenge Scholarship Track 2020, Virtual Program participant at Microsoft 2020.  
 - Web Development intern at Verzeo. 
 
