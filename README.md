@@ -30,8 +30,8 @@
 
 - Mentor at [Wildfly Elytron](https://github.com/wildfly-security/wildfly-elytron) vGHC'21 and Mentor at [AnitaB Organisation](https://github.com/anitab-org) Open Source Hack 2021.
 - Co-Head Web Development at Software Development Cell ANTERiX Club Vit Bhopal, Member at Codecademy VIT Bhopal Chapter.
-- Contributor in Open Source Projects/Organisations: [AnitaB.org](https://github.com/anitab-org), 
-  [awesome portfolio websites](https://github.com/smaranjitghose/awesome-portfolio-websites), [Styles](https://github.com/sumana2001/styles), [DS Algos](https://github.com/rohan8594/DS-Algos), [Anterix](https://github.com/NikhilKD/Anterix), and many more.
+- Contributor in Open Source Projects/Organisations: [Apache Sharding Sphere](https://github.com/apache/shardingsphere), [Backdrop CMS](https://github.com/backdrop),
+   [AnitaB.org](https://github.com/anitab-org), [awesome portfolio websites](https://github.com/smaranjitghose/awesome-portfolio-websites), [Styles](https://github.com/sumana2001/styles), [DS Algos](https://github.com/rohan8594/DS-Algos), [Anterix VIT Bhopal](https://github.com/NikhilKD/Anterix).
 - Participant at Hactoberfest 2020 Digital Ocean, 30 Days of Open Source Challenge Scholarship Track 2020, Virtual Program participant at Microsoft 2020.  
 - Web Development intern at Verzeo. 
 
