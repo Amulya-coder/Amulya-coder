@@ -25,8 +25,7 @@
 - 🎓  I'm an Open Source Enthusiast, Full Stack Web Developer and a Techie.
 - 💻  I'm an experienced developer skilled in C++, HTML, CSS and Javascript.
 - 🌱  Currently learning React App development and developing projects.
-- ✍️  I love to Code, Analyze and Build solutions for solving real life problems, enjoy learning new domain technologies.
-
+- ✍️  I am curious, love to Analyze, code, learn and explore new technologies.
 ### 🌱 What have I done? 
 
 - Mentor at [Wildfly Elytron](https://github.com/wildfly-security/wildfly-elytron) vGHC'21 and Mentor at [AnitaB Organisation](https://github.com/anitab-org) Open Source Hack 2021.
