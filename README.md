@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Amulya Dixit</h1>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=Amulya-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
@@ -57,9 +62,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 <br/>
 <br/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so let's connect it, <b>I'll be happy to meet you more!</b> 😊</em>
+<br/>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amulya-coder&show_icons=true&locale=en&layout=compact" alt="amulya-coder" /></p>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amulya-coder&show_icons=true&locale=en" alt="amulya-coder" /></p>
+
+
 
 
 
