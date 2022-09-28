@@ -27,10 +27,10 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓  I'm an Open Source Enthusiast, Full Stack Web Developer and a Techie.
-- 💻  I'm an experienced developer skilled in C++, HTML, CSS and Javascript.
-- 🌱  Currently practicing Data Structures and Algorithms.
-- ✍️  I am curious, love to Analyze, code, learn and explore new technologies.
+- 🎓  Enthusiast in Open Source, a curious Developer and a Techie.
+- 💻  I'm passionate about learning new technologies and developing software solutions.
+- 🌱  In my free time I love to explore newer problems and keep working on my logic building skills.
+- 🙂  I am always open to collaborate, learn and participate in opne source events .
 ### 🌱 What have I done? 
 
 - Top peformer in [OpenForce 2022](https://www.openforce.tech/) organised by Codeflow community.
