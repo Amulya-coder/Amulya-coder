@@ -32,7 +32,7 @@
 - 🌱 I love to solve newer problems and work on my logic building skills.
 - ✍ I'm on the track of learning more about Blockchain, System design and Cloud computing.
 - 💬 Feel free to reach out to me for tech-related stuffs.
-- 🙂 I am always open to collaborate in open source projects and participate in volunteering events.
+- 🙂 I am always open to collaborate in open source projects and participate in volunteer events.
 ### 🌱 What have I done? 
 
 - Top peformer in [OpenForce 2022](https://www.openforce.tech/) organised by Codeflow community.
