@@ -31,7 +31,7 @@
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I love to solve newer problems and work on my logic building skills.
 - ✍ I'm on the track of learning more about Blockchain, System design and Cloud computing.
-- 💬 Feel free to reach out to me for tech-related stuffs.
+- 💬 Feel free to reach out to me for discussion on any topic.
 - 🙂 I am always open to collaborate in open source projects and participate in volunteer events.
 ### 🌱 What have I done? 
 
