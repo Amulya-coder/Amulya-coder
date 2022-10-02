@@ -27,10 +27,11 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓  Enthusiast in Open Source, a curious Developer and a Techie.
-- 💻  I'm passionate about learning new technologies and developing software solutions.
-- 🌱  In my free time I love to explore newer problems and keep working on my logic building skills.
-- 🙂  I am always open to collaborate, learn and participate in open source events .
+- 🎓 I'm currently studying Computer Science and Engineering at the VIT Bhopal University.
+- 💡  I like to explore new technologies and develop software solutions and quick hacks.
+- 🌱 I love to solve newer problems and work on my logic building skills.
+- ✍ I'm on the track of learning more about Blockchain, System design and Cloud infrastructure.
+- 🙂 I am always open to collaborate in open source projects and participate in volunteering events.
 ### 🌱 What have I done? 
 
 - Top peformer in [OpenForce 2022](https://www.openforce.tech/) organised by Codeflow community.
