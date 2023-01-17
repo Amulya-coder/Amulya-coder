@@ -25,7 +25,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 I'm currently studying Computer Science and Engineering at the VIT Bhopal University.
+- 🎓 I'm currently studying Computer Science and Engineering at VIT Bhopal University.
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
 - 🌱 I love to solve newer problems and work on my logic building skills.
 - ✍ I'm on the track of learning about Big Data, System design and Cloud computing.
