@@ -61,17 +61,10 @@
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![IntelliJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 <br/>
 <br/>
-<b>I love connecting with different people so let's connect it,</b> <b>I'll be happy to meet you more!</b> 😊</em>
-<br/>
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amulya-coder&show_icons=true&locale=en&layout=compact" alt="amulya-coder" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amulya-coder&show_icons=true&locale=en" alt="amulya-coder" /></p>
 
 
-
-
-
-
-
-
-
+<p>
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
+<em><b> I love contributing to opensource :)</em>
+</p>
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
