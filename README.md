@@ -31,7 +31,7 @@
 - ✍ I'm on the track of learning about Big Data and Blockchain.
 ### 🌱 What have I done? 
 
-- Top peformer in [OpenForce 2022](https://www.openforce.tech/) open source event organized by Codeflow community.
+- Top peformer in [OpenForce 2022](https://www.openforce.tech/) event organized by Codeflow community.
 - Open Source Mentor at [Wildfly Elytron](https://github.com/wildfly-security/wildfly-elytron) at vGHC'21 and OS Mentor at [AnitaB Organisation](https://github.com/anitab-org) in Open Source Hack 2021.
 - Co-Head Web Development at Software Development Cell ANTERiX Club Vit Bhopal, Member at Codecademy VIT Bhopal Chapter.
 - Contributor in Open Source Projects/Organisations: [Apache Sharding Sphere](https://github.com/apache/shardingsphere), [Backdrop CMS](https://github.com/backdrop),
