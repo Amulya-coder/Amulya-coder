@@ -27,8 +27,8 @@
 
 - 🎓 I'm currently studying Computer Science and Engineering at VIT Bhopal University.
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I love to solve newer problems and work on my logic building skills.
-- ✍ I'm on the track of learning about Big Data, System design and Cloud computing.
+- 🌱 I love to work on open-source projects and currently focused on the exciting fields of Cloud Computing and Cryptography.
+- ✍ I'm on the track of learning about Big Data and Blockchain.
 ### 🌱 What have I done? 
 
 - Top peformer in [OpenForce 2022](https://www.openforce.tech/) open source event organized by Codeflow community.
