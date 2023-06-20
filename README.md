@@ -31,8 +31,8 @@
 - ✍ I'm on the track of learning about JavaScript and its frameworks.
 ### 🌱 What have I done? 
 
-- Top peformer in [OpenForce 2022](https://www.openforce.tech/) event organized by Codeflow community.
-- Open Source Mentor at [Wildfly Elytron](https://github.com/wildfly-security/wildfly-elytron) at vGHC'21 and OS Mentor at [AnitaB Organisation](https://github.com/anitab-org) in Open Source Hack 2021.
+- Ranked under Top 10 peformer in [OpenForce 2022](https://www.openforce.tech/) hackathon by Codeflow.
+- Selected as Open Source Mentor at [Wildfly Elytron](https://github.com/wildfly-security/wildfly-elytron) at vGHC'21 and OS Mentor at [AnitaB Organisation](https://github.com/anitab-org) in Open Source Hack 2021.
 - Co-Head Web Development at Software Development Cell ANTERiX Club Vit Bhopal, Member at Codecademy VIT Bhopal Chapter.
 - Contributor in Open Source Projects/Organisations: [Apache Sharding Sphere](https://github.com/apache/shardingsphere), [Backdrop CMS](https://github.com/backdrop),
    [AnitaB.org](https://github.com/anitab-org), [awesome portfolio websites](https://github.com/smaranjitghose/awesome-portfolio-websites), [Styles](https://github.com/sumana2001/styles), [DS Algos](https://github.com/rohan8594/DS-Algos), [Anterix VIT Bhopal](https://github.com/NikhilKD/Anterix).
