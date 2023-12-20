@@ -66,6 +66,5 @@
 
 <p>
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif">
-<em><b> I love contributing to opensource :)</em>
+<em><b> I am contributing to opensource :)</em>
 </p>
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
