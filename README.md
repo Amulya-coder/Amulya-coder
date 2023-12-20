@@ -27,8 +27,8 @@
 
 - 🎓 I'm a Graduate student in Computer Science and Engineering from VIT Bhopal University 2023.
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I love to work on open-source projects and currently focused on the exciting fields of Application development and Cloud services.
-- ✍ I'm currently learning about Data Analysis, react and redux.
+- 🌱 I love to work on open-source projects and currently focused in the exciting field of Web development and Data Analysis.
+- ✍ I'm currently learning about Python, react and redux.
 ### 🌱 What have I done? 
 
 - Ranked under Top 10 peformer in [OpenForce 2022](https://www.openforce.tech/) hackathon by Codeflow.
