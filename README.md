@@ -25,7 +25,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- 🎓 I'm a Graduate student in Computer Science and Engineering from VIT Bhopal University 2023.
+- 🎓 I'm a Graduate student in Computer Science and Engineering from VIT Bhopal University.
 - 💡  I like to explore new technologiees, software solutions and quick hacks.
 - 💻 I like to develop tech projects and currently focussing in the exciting field of Data Analytics and Web development.
 - ✍ I'm learning about Python, react and redux.
