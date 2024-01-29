@@ -31,7 +31,7 @@
 - ✍ I'm learning about Python, react and redux.
 ### 🌱 What have I done? 
 
-- Ranked under Top 10 peformer in [OpenForce 2022](https://www.openforce.tech/) hackathon by Codeflow.
+- Ranked under Top 10 peformer in OpenForce hackathon by Codeflow.
 - Selected as Open Source Mentor at [Wildfly Elytron](https://github.com/wildfly-security/wildfly-elytron) at vGHC'21 and OS Mentor at [AnitaB Organisation](https://github.com/anitab-org) in Open Source Hack 2021.
 - Co-Head Web Development at Software Development Cell ANTERiX Club Vit Bhopal, Member at Codecademy VIT Bhopal Chapter.
 - Contributor in Open Source Projects/Organisations: [Apache Sharding Sphere](https://github.com/apache/shardingsphere), [Backdrop CMS](https://github.com/backdrop),
