@@ -27,8 +27,8 @@
 
 - 🎓 I'm a Graduate student in Computer Science and Engineering from VIT Bhopal University.
 - 💡  I like to explore new technologiees, software solutions and quick hacks.
-- 💻 I like to develop tech projects and currently focussing in the exciting field of Data Analytics and Web development.
-- ✍ I'm learning about Python, react and redux.
+- 💻 I like to develop tech projects and currently focussing in the exciting field of DevOps and IT.
+- ✍ I'm learning about Linux, AWS, docker, kubernetes and Ansible.
 ### 🌱 What have I done? 
 
 - Ranked under Top 10 peformer in OpenForce hackathon by Codeflow.
